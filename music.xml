@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<music>
+    <song id="1">
+        <songTitle>Howling</songTitle>
+        <artist>XG</artist>
+        <debutYear>2022</debutYear>
+        <albums>
+            <album>Awe</album>
+            <album>Woke Up</album>
+            <album>New DNA</album>
+        </albums>
+    </song>
+    <song id="2">
+        <songTitle>Shut Down</songTitle>
+        <artist>BLACKPINK</artist>
+        <debutYear>2016</debutYear>
+        <albums>
+            <album>The Album</album>
+            <album>Square Up</album>
+            <album>Born Pink</album>
+        </albums>
+    </song>
+    <song id="3">
+        <songTitle>505</songTitle>
+        <artist>Arctic Monkeys</artist>
+        <debutYear>2002</debutYear>
+        <albums>
+            <album>AM</album>
+            <album>Favourite Worst Nightmare</album>
+            <album>Suck It and See</album>
+        </albums>
+    </song>
+    <song id="4">
+        <songTitle>Yellow</songTitle>
+        <artist>Coldplay</artist>
+        <debutYear>1997</debutYear>
+        <albums>
+            <album>Parachutes</album>
+            <album>A Head Full of Dreams</album>
+            <album>Ghost Stories</album>
+        </albums>
+    </song>
+    <song id="5">
+        <songTitle>Circles</songTitle>
+        <artist>Post Malone</artist>
+        <debutYear>2011</debutYear>
+        <albums>
+            <album>Austin</album>
+            <album>Stoney</album>
+            <album>Hollywood's Bleeding</album>
+        </albums>
+    </song>
+    <song id="6">
+        <songTitle>seasons</songTitle>
+        <artist>wave to earth</artist>
+        <debutYear>2019</debutYear>
+        <albums>
+            <album>Flaws and All</album>
+            <album>Waves</album>
+            <album>Summer Flows</album>
+        </albums>
+    </song>
+</music>
